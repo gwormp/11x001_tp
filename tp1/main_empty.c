@@ -15,11 +15,11 @@ void exercice2(void){
     printf("\n\nEXERCICE 2\n\n");
     
     /******************** Votre code ci-dessous ********************/
-    void main(void){
+    int main(void){
         printf("NAME : ALAN\n");
         printf("DOB : 01/01/2000\n");
         printf("ADRESS : 01 Rue des Champs-Élysées");
-        return;
+        return 0;
     }
     /******************** Votre code ci-dessus *********************/
     
